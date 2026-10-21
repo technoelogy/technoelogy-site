@@ -759,6 +759,13 @@ body:has(.home-page) {
   padding: 0 7px;
 }
 
+.hero-context {
+  margin-bottom: 16px;
+  color: rgb(245 242 234 / 82%);
+  font-size: 12px;
+  letter-spacing: 0.1em;
+}
+
 .hero-panel .hero {
   min-height: 0;
   flex: 1;

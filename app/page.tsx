@@ -27,6 +27,9 @@ export default function Home() {
           </header>
 
           <section className="hero">
+            <p className="eyebrow hero-context">
+              Built from inside Consumer Health, OTC, and pharma marketing
+            </p>
             <h1 id="hero-heading">
               What problem are
               <br />
